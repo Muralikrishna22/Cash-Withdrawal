@@ -1,0 +1,59 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
+.withdraw-container {
+  background-color: #150b3e;
+  height: 70vh;
+  width: 30vw;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.user-profile {
+  display: flex;
+  align-items: center;
+}
+.user-dp {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  font-size: large;
+  height: 80px;
+  width: 80px;
+  border-radius: 50px;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-name {
+  font-size: 30px;
+  color: #d4d2db;
+}
+
+.your-balance-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.your-balance {
+  color: #382f5a;
+  font-weight: bold;
+  font-size: 25px;
+}
+.user-balance {
+  font-size: 30px;
+  color: #d4d2db;
+  font-weight: bold;
+}
+
+.list-container {
+  display: flex;
+  flex-wrap: wrap;
+}

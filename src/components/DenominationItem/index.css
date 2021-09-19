@@ -1,0 +1,15 @@
+.item-container {
+  list-style-type: none;
+}
+
+.withdarw-btn {
+  border: 2px solid #c4c4c4;
+  height: 40px;
+  width: 150px;
+  background-color: #382f5a;
+  color: #c4c4c4;
+  border-radius: 5px;
+  margin: 25px;
+  font-weight: bold;
+  font-size: 20px;
+}
